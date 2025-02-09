@@ -1,5 +1,7 @@
 # Java Weekly Payroll
 
+<a href="https://github.com/dayokuyiga/Java-Weekly-Payroll/blob/main/OkuyigaD002PA1.java">Code here</a>
+
 ## Objective
 
 This Java project is a program set to generate a weekly payroll report for hourly employees. It gives the user for employee details including:
